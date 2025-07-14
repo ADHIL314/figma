@@ -1,0 +1,523 @@
+header{
+    width: 1440;
+    height: 104; ;
+    background-color :lab(100% 0.01 -0.01);
+    display: flex;
+    justify-content:center ;
+
+
+}
+#div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+   
+    
+}
+
+#div3{
+    display: flex;
+    gap: 40px;
+    color: rgb(247, 247, 248);
+}
+
+
+.text{
+    color: black;
+    text-decoration: none;
+}
+
+.img2{
+height: 30px;
+}
+
+#bigdiv{
+    height: 716px;
+    width: 1200px;
+   display: flex;
+   align-items: center;
+}
+#big2{
+    width: 1150px; 
+    height: 596px;
+    display: flex;
+    align-items: center;
+ 
+}
+#small1{
+    width: 600px;
+    height: 476px;
+    margin-left: 60px;
+ 
+    
+    
+}
+#small2{
+    width: 800px;
+    height: 596px;
+    margin-left: -60px;
+
+    
+    
+}
+.imgbig{
+    height: 400px;
+    width: 600px;
+    
+}
+
+.evren{
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+.front{
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.devl{font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+    color: white;
+  background-color: white;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+.mp{
+    font-size: 30px;
+   
+}
+.smp{
+    font-size: 10px;
+}
+     
+.smp{
+   font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 8;
+  font-style: normal;
+}
+#vrsmall{
+    width: 320px;
+    height: 64px;
+    
+}
+
+.sclicons{
+    display: flex;
+    gap: 15px;
+    margin-top: 40px;
+}
+.myskill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -80px;
+}
+.skill{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.grid{
+    width: 1216px; 
+    height: 492px; 
+}
+.firstdiv{
+    width: 1216px;
+    height: 226px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.seconddiv{
+    width: 1216px;
+    height: 226px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.blk{  
+    height: 836px;
+    padding-left: 32px;
+    padding-right: 32px ;
+    display: flex;
+    gap: 40PX ;
+    flex-direction: column;
+}
+.exp{
+    height: 66px;
+    gap: 5px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.myexp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(247, 249, 250);
+    gap: 10px;
+    
+    
+}
+.my{
+ font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  color: rgb(247, 247, 247);
+}
+.blk2{
+    height: 720px;
+
+    
+}
+.gdiv{
+    width: 100%;
+    height: 192px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(253, 253, 252);
+    margin-top: 32px;
+    border-radius: 5px;
+    
+  
+   
+    
+}
+.g{
+    width:100% ;
+    background-color: black;
+    color: aliceblue;
+    /* display: flex;
+    justify-content: space-between; */
+    padding-right: 32px;
+    padding-left: 32px;
+}
+.gdate{
+    color: aliceblue;
+}
+.company{
+    display: flex;
+    line-height: 0px;
+    gap: 20px;
+
+}
+.gimg{
+    height: 32px;
+    margin-top: 10px;
+}
+.note{
+ display: flex;
+
+width: 100%;
+justify-content: space-between;
+ 
+}
+.gnote{
+    margin-top: 25px;
+}
+.ynote{
+    margin-top: 25px;
+}
+.cnote{
+    margin-top: 25px;
+}
+.about{
+    height: 100%;
+    background-color: rgb(251, 252, 252);
+    padding: 60px;
+}
+.aboutsmall{
+    height: 572px;
+    display: flex;
+
+    
+}
+.aboutmenote{
+    width: 48%;
+    height: 100%;
+    
+}
+.heading{
+    height: 96px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+   
+}
+.abouth1{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.me{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+ 
+}
+.imgman{
+    padding: 0px 60px;
+}
+.paragraph{
+    margin-left: 5px;
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 15px;
+}
+/* 4th section */
+.project{
+    
+    height: 1372px;
+    background-color: rgb(7, 7, 8);
+    padding: 60px 80px;
+}
+.insideprojectdiv{
+    height: 100%;
+    padding: 0px 32px;
+}
+.projectheading{
+    height: 96px;
+    display: flex;
+    justify-content: center;
+}
+.myproject{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(243, 244, 245);
+    gap: 10px;
+    font-size: 30px;
+}
+.projectm{
+       font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal; 
+}
+.projectspan{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.crypto{
+    height: 416px;
+    display: flex;
+    align-items: center;
+    gap: 40PX;
+}
+.cryptopic{
+    width: 494px;
+    height: 376px;
+}
+.img77{
+    height: 397px;
+}
+.cryptonote{
+    width: 482px;
+    height: 296px;
+}
+.cryptonumb{
+    font-size: 50px;
+    line-height: 0px;
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(248, 247, 247);
+}
+.cryptoparagraph{
+    color: rgba(91, 97, 100, 0.966);
+    font-size: 15px;
+}
+.cryptohead{
+    color: rgb(250, 252, 252);
+}
+/* 5th section */
+
+.testimonial{
+    height: 614px;
+    background-color: rgb(247, 241, 241);
+    padding: 60px 80px;
+}
+.smalltestimonial{
+    height: 100%;
+    padding: 0px 32px;
+}
+.headingdivtestimonial{
+    height: 96px;
+    display: flex;
+    justify-content: center;
+}
+.headingtestmonial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.testimonialnote{
+    height: 71%;
+    display: flex;
+    gap: 20px;
+    padding: 40px 24px ;
+}
+.test{
+      font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;   
+}
+.firstcolumn{
+    width: 370px;
+    height: 398px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 10px 0px black;
+}
+.secondcolumn{
+    width: 370px;
+    height: 398px;
+    background-color: rgb(12, 12, 11);
+    border-radius: 20px;
+}
+.thirdcolumn{
+    width: 370px;
+    height: 398px;
+    border-radius: 20px;
+}
+.firstcolumnpng{
+    height: 96px;
+}
+
+.linediv{
+    height: 2px;
+    background-color: black;
+    width: 100px;
+}
+/* last section */
+.lastsection{
+    height: 501px;
+    padding: 60px 80px;
+}
+.lastsmallsection{
+    height: 100%;
+    padding: 20px 32px;
+    display: flex;
+}
+.lastsmallsectionnote{
+    width: 50%;
+    height: 100%;
+}
+.lastsmallsectiondetails{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.letstalk{
+    width: 100%;
+    height: 312px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+.speciel{
+    height: 192px;
+}
+.email{
+    height: 80px;
+}
+.detailsnote{
+    height: 444px;
+    display: flex;
+    flex-direction: column ;
+    gap: 20px;
+}
+.input{
+    height: 56px;
+    width: 400px;
+}
+.output{
+     height: 140px;
+      width: 400px;
+}
+.logos{
+    width: 405px;
+    height: 58px;
+    display: flex;
+    gap: 10px;
+}
+.buttons{
+    height: 51px;
+    display: flex;
+    gap: 50px;
+}
+.talk{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+    color: white;
+  background-color: white;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+.limits{
+        color: rgba(91, 97, 100, 0.966);
+    font-size: 15px;
+}
+.youremail{
+           font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal; 
+}
+.forSomthing{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.footer{
+    height: 48px;
+    background-color: black;
+    padding: 24px 80px;
+}
+.smallfooter{
+    height: 52px;
+    display: flex;
+     justify-content: space-between;
+     align-items: end;
+     
+}
+.personalyear{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    color: white;
+    
+
+   
+}
+
